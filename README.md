@@ -11,11 +11,13 @@ VMESS - VLESS
 
 **credits**
 
-Thank you for these great repoos for aggregating configurations, without these lists, I wouldn't be able to carry tests in first place!
+Thank you for these great repos for aggregating configurations, without these lists, I wouldn't be able to carry tests in first place!
 
 [V2RayAggregator - mahdibland](https://github.com/mahdibland/V2RayAggregator)
 
 [TelegramV2RayCollector - yebkhe](https://github.com/yebekhe/TelegramV2rayCollector)
+
+[V2ray-Configs - barry-far](https://github.com/barry-far/V2ray-Configs)
 
 **why?**
 
