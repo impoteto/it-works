@@ -17,10 +17,9 @@ Thank you for these great repoos for aggregating configurations, without these l
 
 **why?**
 
-well, mostly for personal use, so I can use it as subscription link, since most lists on the internet are aggregations and quite lengthy , I thought it's a good idea to seperate them by operator
+Well, mostly for personal use, so I can use it as subscription link, since most lists on the internet are aggregations and quite lengthy, I thought it's a good idea to separate them by mobile ISP
 
-I probably would think of a way to automate this in future (even though that would quite hard, since I have to switch between operators one way or another)
-but for now, It would suffice to do it manually until a better solution emerges(I just said emerge huh)
+I probably would think of a way to automate this in the future (even though that would be quite difficult, since I have to switch between mobile ISPs one way or another), but for now, it would suffice to do it manually until a better solution emerges.
 
 also, it would reflect actual performance a bit better since myself would prefer good performing configurations as much as possible
 
