@@ -3,6 +3,8 @@
 
 Keeping a separate list of VPN configurations that have been tested manually for each mobile network operator in Iran
 
+for now, I can't test fragment and such, since I'm using a rather unconventional method for mass testing configs
+
 **Protocols**
 
 VMESS - VLESS
